@@ -1,0 +1,11 @@
+# basic options, This is a comment, so I can say whatever...
+title: ACADEMIA AND HOW TO MAKE IT WORK FOR YOU
+author: The Resource Guy
+email: your-email@domain.com
+description: Using your resources wisely
+twitter_username: jekyllrb
+github_username:  TexasN
+
+# Build settings
+markdown: kramdown
+theme: minima
