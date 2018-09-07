@@ -8,4 +8,4 @@ github_username:  TexasN
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-midnight
